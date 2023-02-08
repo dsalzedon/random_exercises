@@ -1,2 +1,2 @@
-# mentoria_jordy
+# random
 Ejercicios de mentoria
